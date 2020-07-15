@@ -1,3 +1,5 @@
-function max() {
-    console.log(123);
+function min() {
+    console.log(456);
 }
+
+var a  =1
